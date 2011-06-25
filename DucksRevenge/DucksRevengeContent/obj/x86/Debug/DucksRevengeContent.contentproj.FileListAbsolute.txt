@@ -1,0 +1,2 @@
+D:\Projects\DucksRevenge\DucksRevenge\DucksRevengeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevengeContent\obj\x86\Debug\ResolveAssemblyReference.cache

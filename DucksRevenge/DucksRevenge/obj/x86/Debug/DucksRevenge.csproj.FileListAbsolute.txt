@@ -1,0 +1,13 @@
+D:\Projects\DucksRevenge\DucksRevenge\DucksRevenge\bin\x86\Debug\DucksRevenge.exe
+D:\Projects\DucksRevenge\DucksRevenge\DucksRevenge\bin\x86\Debug\DucksRevenge.pdb
+D:\Projects\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\DucksRevenge.exe
+D:\Projects\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\DucksRevenge.pdb
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevenge\bin\x86\Debug\Content\hudFont.xnb
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevenge\bin\x86\Debug\DucksRevenge.exe
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevenge\bin\x86\Debug\DucksRevenge.pdb
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\DucksRevenge.exe
+D:\Projects\cSharp\DucksRevenge\DucksRevenge\DucksRevenge\obj\x86\Debug\DucksRevenge.pdb

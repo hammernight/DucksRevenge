@@ -1,0 +1,214 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Runtime">
+      <Item value="Initialize`0" priority="0" />
+      <Item value="VideoStream" priority="0" />
+      <Item value="VideoFrameReady" priority="1" />
+      <Item value="Uninitialize`0" priority="0" />
+      <Item value="NuiCamera" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="RuntimeOptions`0" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="kinectRGBVideo" priority="6" />
+      <Item value="new" priority="7" />
+      <Item value="Texture2D" priority="1" />
+      <Item value="graphicsDevice" priority="2" />
+      <Item value="kinectSensor" priority="10" />
+      <Item value="ImageStreamType`0" priority="0" />
+      <Item value="Video`0" priority="0" />
+      <Item value="Resolution640x480" priority="0" />
+      <Item value="Color" priority="1" />
+      <Item value="EventHandler&lt;ImageFrameReadyEventArgs&gt;" priority="1" />
+      <Item value="PlanarImage`0" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="Color`0" priority="5" />
+      <Item value="var" priority="4" />
+      <Item value="p" priority="7" />
+      <Item value="graphics" priority="1" />
+      <Item value="int" priority="4" />
+      <Item value="for" priority="1" />
+      <Item value="XnaImaging" priority="1" />
+      <Item value="x" priority="1" />
+      <Item value="index" priority="1" />
+      <Item value="color" priority="2" />
+      <Item value="spriteBatch" priority="3" />
+      <Item value="Rectangle" priority="0" />
+      <Item value="CubePrimitive`0" priority="0" />
+      <Item value="SpherePrimitive`0" priority="1" />
+      <Item value="KinectSensorVideoFrameReady`0" priority="0" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="Camera`0" priority="2" />
+      <Item value="if" priority="1" />
+      <Item value="SkeletonData`0" priority="0" />
+      <Item value="DataMisalignedException`0" priority="0" />
+      <Item value="SkeletonTrackingState`0" priority="0" />
+      <Item value="s" priority="1" />
+      <Item value="continue" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="Joint`0" priority="2" />
+      <Item value="in" priority="0" />
+      <Item value="joint" priority="2" />
+      <Item value="return" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="0" />
+      <Item value="JointID`0" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="Point`0" priority="1" />
+      <Item value="static" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="currentPrimitive" priority="0" />
+      <Item value="planarImage" priority="10" />
+      <Item value="_cam" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="SpriteBatch`0" priority="1" />
+      <Item value="SpriteBatch" priority="0" />
+      <Item value="GraphicsDevice" priority="0" />
+      <Item value="GraphicsDevice`0" priority="0" />
+      <Item value="Blend`0" priority="0" />
+      <Item value="SpriteSortMode`0" priority="0" />
+      <Item value="BlendState`0" priority="0" />
+      <Item value="GeometricPrimitive`0" priority="0" />
+      <Item value="primitive" priority="0" />
+      <Item value="Matrix`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Research.Kinect.Nui.RuntimeOptions">
+      <Item value="UseColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Game">
+      <Item value="Initialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.ImageStream">
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.ImageStreamType">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.ImageFrameReadyEventArgs">
+      <Item value="ImageFrame" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.ImageFrame">
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.PlanarImage">
+      <Item value="Height" priority="2" />
+      <Item value="Width" priority="3" />
+      <Item value="Bits" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="GraphicsDevice" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.GraphicsDevice">
+      <Item value="Adapter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Texture2D">
+      <Item value="SetData`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Begin`0" priority="1" />
+      <Item value="Draw`0" priority="0" />
+      <Item value="End`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="Wheat" priority="0" />
+      <Item value="Yellow" priority="0" />
+      <Item value="Violet" priority="0" />
+      <Item value="White" priority="0" />
+      <Item value="Black" priority="0" />
+      <Item value="LimeGreen" priority="0" />
+      <Item value="Transparent" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Research.Kinect.Nui.SkeletonTrackingState">
+      <Item value="Tracked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.SkeletonData">
+      <Item value="TrackingState" priority="0" />
+      <Item value="Joints" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Joint">
+      <Item value="Position" priority="0" />
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Vector">
+      <Item value="W" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Research.Kinect.Nui.JointID">
+      <Item value="Head" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Research.Kinect.Nui.ImageType">
+      <Item value="ColorYuv" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.SpriteSortMode">
+      <Item value="Deferred" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.BlendState">
+      <Item value="AlphaBlend" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:CubePrimitive.cs" caret="0" fromTop="0" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:Program.cs" caret="0" fromTop="0" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1034" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4391" fromTop="12" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2560" fromTop="30" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2560" fromTop="26" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4856" fromTop="36" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3010" fromTop="16" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2185" fromTop="28" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3010" fromTop="14" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="35" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6228" fromTop="32" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5107" fromTop="33" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5972" fromTop="35" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6309" fromTop="35" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="35" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="32" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="21" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5408" fromTop="18" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3693" fromTop="24" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3919" fromTop="23" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3804" fromTop="17" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1774" fromTop="15" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2185" fromTop="22" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4147" fromTop="14" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4627" fromTop="28" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5087" fromTop="22" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2963" fromTop="20" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2675" fromTop="12" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1289" fromTop="0" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4854" fromTop="11" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5038" fromTop="17" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1034" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
