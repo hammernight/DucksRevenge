@@ -123,12 +123,13 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
       <Item value="Wheat" priority="0" />
-      <Item value="Yellow" priority="0" />
+      <Item value="Yellow" priority="1" />
       <Item value="Violet" priority="0" />
-      <Item value="White" priority="0" />
+      <Item value="White" priority="2" />
       <Item value="Black" priority="0" />
       <Item value="LimeGreen" priority="0" />
-      <Item value="Transparent" priority="1" />
+      <Item value="Transparent" priority="2" />
+      <Item value="GreenYellow" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.DateTime">
       <Item value="Now" priority="0" />
@@ -165,39 +166,41 @@
     <RecentFiles>
       <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:CubePrimitive.cs" caret="0" fromTop="0" />
       <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:Program.cs" caret="0" fromTop="0" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1034" fromTop="10" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:TeapotPrimitive.cs" caret="11847" fromTop="30" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5089" fromTop="128" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:ObjectRotation.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4391" fromTop="12" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2560" fromTop="30" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2560" fromTop="26" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4856" fromTop="36" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3010" fromTop="16" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2185" fromTop="28" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3010" fromTop="14" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="35" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6228" fromTop="32" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5107" fromTop="33" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5972" fromTop="35" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6309" fromTop="35" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="35" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="32" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6595" fromTop="21" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5408" fromTop="18" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3693" fromTop="24" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3919" fromTop="23" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3804" fromTop="17" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1774" fromTop="15" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2185" fromTop="22" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4147" fromTop="14" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4627" fromTop="28" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5087" fromTop="22" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2963" fromTop="20" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2675" fromTop="12" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1289" fromTop="0" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4854" fromTop="11" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5038" fromTop="17" />
-      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1034" fromTop="10" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5540" fromTop="35" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5179" fromTop="32" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4162" fromTop="33" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5540" fromTop="35" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5540" fromTop="32" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5540" fromTop="21" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3102" fromTop="24" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3328" fromTop="23" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3213" fromTop="17" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1782" fromTop="22" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3556" fromTop="14" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4162" fromTop="22" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="920" fromTop="0" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4040" fromTop="42" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="6533" fromTop="35" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4162" fromTop="15" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="3871" fromTop="14" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1382" fromTop="9" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1428" fromTop="9" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2145" fromTop="20" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="2320" fromTop="25" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="431" fromTop="12" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1040" fromTop="32" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1201" fromTop="36" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="646" fromTop="14" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4734" fromTop="32" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="1027" fromTop="13" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="646" fromTop="8" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="4535" fromTop="25" />
+      <File id="3848A791-06D4-49A9-BB53-F2CF7D4EDE74/f:DuckWillLeaveUsEventually.cs" caret="5098" fromTop="128" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
